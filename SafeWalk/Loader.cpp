@@ -7,7 +7,7 @@ int main() {
 	InitializeWalk();
 
 	while (true) {
-		if (GetAsyncKeyState('D') & 0x8000) {
+		if (GetAsyncKeyState('D') & 0x8000) { //Change D with the key you want to use to toggle with
 			while (GetAsyncKeyState('D') & 0x8000) std::this_thread::sleep_for(std::chrono::milliseconds(1)); //Used to avoid to run multiple safewalk threads
 			EnableSafeWalk(false);
 		}
