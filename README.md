@@ -23,14 +23,6 @@ Follow these steps to integrate and utilize the SafeWalk module for Minecraft cl
 
 This module is developed with the intention of enhancing player safety and convenience. It should not be used to gain unfair advantages or disrupt the gameplay for others. Use this module responsibly and consider its impact on the overall gaming experience.
 
-## Support
-
-If you appreciate the effort put into developing this SafeWalk module and would like to show support:
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-Donate-green.svg)]([https://example.com/donate](https://streamelements.com/disabler/tip))
-
-Your support encourages the creation of more modules and improvements to Minecraft gameplay.
-
 ## License
 
 This module is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
